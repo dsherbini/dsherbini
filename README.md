@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danya.
-- 📓 I'm a graduate student at the University of Chicago studying data science and public policy, with a focus on public interest technology. 
+- 📓 I'm a graduate student at the University of Chicago studying data science and public policy. 
 - 💻 I've worked across the social impact and technology sectors for over 8 years and recently completed a Graduate Data Science internship with the Federal Reserve Bank. 
 - ✨ My interests are in ethics and bias in Artificial Intelligence, algorithmic decision-making in social policy and civic tech, digital equity, and data privacy and civil rights.
 - ✍️ I'm an Executive Editor for the Chicago Policy Review, where I've also published my own [work](https://chicagopolicyreview.org/author/danya-sherbini/).
