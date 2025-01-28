@@ -1,8 +1,29 @@
-- 👋 Hi, I’m Danya.
-- 💻 I've worked across the technology, social impact, and public sectors for a decade. 
-- ✨ My interests are in ethics and bias in Artificial Intelligence, algorithmic decision-making in social policy and civic tech, digital equity, and data privacy and civil rights.
-- 🔍 For more information about my work and professional experience, check out my [personal website](https://danyasherbini.notion.site/Danya-Sherbini-ba06259e8e984fc4a733adaf83e032be?pvs=4) and [LinkedIn profile](https://www.linkedin.com/feed/).
+### Hi, I’m Danya ✨
+Data scientist / fan of k-dramas
+</br>
 
+- 🛠️ Building data apps to empower workers and tenants @ [TechEquity](https://techequity.us/people/danya-sherbini/)
+- 💻 I use daily: `python`, `postgreSQL`, `docker`, `css`, `json`
+- 🧰 Currently working on:
+  - ☀️ [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker/subscription) by day
+  - 🌚 [Kdramarama](https://github.com/dsherbini/kdrama-recommendations/subscription) by night
+
+</br>
+
+#### Some of my favorite projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=legislation-tracker&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=kdrama-recommendations&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=tenantprotections2&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=cwdp&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=nyc-internet-access&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=2023-chi-mayor-election&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![Danya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsherbini&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,reviews&theme=shadow_blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsherbini&exclude_repo=abortion-laws-by-state-map&layout=donut&theme=shadow_blue)
 
 <!---
 dsherbini/dsherbini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
