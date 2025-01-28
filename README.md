@@ -6,7 +6,7 @@ Data scientist / fan of k-dramas
 - 💻 I use daily: `python`, `postgreSQL`, `docker`, `css`, `json`
 - 🧰 Currently working on:
   - ☀️ [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker/subscription) by day
-  - 🌚 [Kdramarama](https://github.com/dsherbini/kdrama-recommendations/subscription) by night
+  - 🌚 [Kdrama-rama](https://github.com/dsherbini/kdrama-recommendations/subscription) by night
 
 </br>
 </br>
