@@ -16,8 +16,6 @@ Data scientist / fan of k-dramas
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=kdrama-recommendations&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=tenantprotections2&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=cwdp&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=nyc-internet-access&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=2023-chi-mayor-election&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
