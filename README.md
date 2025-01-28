@@ -5,8 +5,8 @@ Data scientist / fan of k-dramas
 - 🛠️ Building data apps to empower workers and tenants @ [TechEquity](https://techequity.us/people/danya-sherbini/)
 - 💻 I use daily: `python`, `postgreSQL`, `docker`, `css`, `json`
 - 🧰 Currently working on:
-  - ☀️ [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker/subscription) by day
-  - 🌚 [Kdrama-rama](https://github.com/dsherbini/kdrama-recommendations/subscription) by night
+  - ☀️ [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker) by day
+  - 🌚 [Kdrama-rama](https://github.com/dsherbini/kdrama-recommendations) by night
 
 </br>
 </br>
