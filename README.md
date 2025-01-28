@@ -9,17 +9,12 @@ Data scientist / fan of k-dramas
   - 🌚 [Kdramarama](https://github.com/dsherbini/kdrama-recommendations/subscription) by night
 
 </br>
-
-#### Some of my favorite projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=legislation-tracker&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsherbini&repo=kdrama-recommendations&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=tenantprotections2&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techequitycollaborative&repo=cwdp&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-
 </br>
 
 ![Danya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsherbini&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,reviews&theme=shadow_blue)  
+
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsherbini&exclude_repo=abortion-laws-by-state-map&layout=donut&theme=shadow_blue)
 
 <!---
