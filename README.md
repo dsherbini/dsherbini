@@ -19,8 +19,7 @@ Data scientist / fan of k-dramas
 
 </br>
 
-![Danya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsherbini&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,reviews&theme=shadow_blue)
-
+![Danya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsherbini&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,reviews&theme=shadow_blue)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsherbini&exclude_repo=abortion-laws-by-state-map&layout=donut&theme=shadow_blue)
 
 <!---
