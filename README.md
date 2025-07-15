@@ -7,7 +7,7 @@ Data scientist / fan of k-dramas
 - 🧰 Current and recent work projects:
   - ⚖️ [CA Legislation Tracker](https://github.com/techequitycollaborative/legislation-tracker)
   - 🌎 [Data Work Landscape](https://github.com/techequitycollaborative/ai-data-work-landscape)
-- ✨ Current and recent personal projects:
+- 👩🏻‍💻 Current and recent personal projects:
   - ☂️ [Kdrama-rama](https://github.com/dsherbini/kdrama-recommendations)
 
 </br>
