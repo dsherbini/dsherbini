@@ -14,7 +14,7 @@ Data scientist / fan of k-dramas
 </br>
 </br>
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg?v=2)
 
 <!---
 dsherbini/dsherbini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
